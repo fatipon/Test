@@ -1,0 +1,12 @@
+MySql
+User 		'root'
+Password	'ceg100hfp'
+
+PhpMyAdmin
+http://localhost:8080/phpmyadmin/
+User		'root'
+Password	'ceg100hfp'
+
+Wordpress
+http://localhost:8080
+
